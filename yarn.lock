@@ -1449,19 +1449,19 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@lekoarts/gatsby-theme-cara@^3.0.0":
-  version "3.0.5"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-cara/-/gatsby-theme-cara-3.0.5.tgz#0f47be3ba14e8cedd5abf2b185e54857264055b7"
-  integrity sha512-K0kObyiUbqUAolusaqi1raNkkjP2A+W6cberwySCFTzfOysWwa6kSOWwVFbYXkrgnRtVHxf2BpvbA3o+i59Elw==
+"@lekoarts/gatsby-theme-cara@^3.0.6":
+  version "3.0.6"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-cara/-/gatsby-theme-cara-3.0.6.tgz#3ccf8c61d39094944e880b9ea12336e528567baa"
+  integrity sha512-x48IuJdGdY0HPK1HfMpWS4qQWMQAXDavn0b9lpz57u/lAJf+zuPWRme0Y/V5j+XKGB0cIPZ8XETPEj6bbq+nVQ==
   dependencies:
     "@mdx-js/mdx" "^1.6.22"
-    "@react-spring/parallax" "^9.4.3"
-    "@react-spring/web" "^9.4.3"
+    "@react-spring/parallax" "^9.4.4"
+    "@react-spring/web" "^9.4.4"
     "@theme-ui/presets" "^0.11.1"
-    gatsby-plugin-mdx "^3.8.1"
-    gatsby-plugin-react-helmet "^5.8.0"
+    gatsby-plugin-mdx "^3.11.1"
+    gatsby-plugin-react-helmet "^5.11.0"
     gatsby-plugin-theme-ui "^0.11.1"
-    gatsby-source-filesystem "^4.8.1"
+    gatsby-source-filesystem "^4.11.1"
     react-helmet "^6.1.0"
     theme-ui "^0.11.1"
 
@@ -2014,59 +2014,59 @@
   resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.21.tgz#5de5a2385a35309427f6011992b544514d559aa1"
   integrity sha512-a5Sab1C4/icpTZVzZc5Ghpz88yQtGOyNqYXcZgOssB2uuAr+wF/MvN6bgtW32q7HHrvBki+BsZ0OuNv6EV3K9g==
 
-"@react-spring/animated@~9.4.3-beta.0":
-  version "9.4.3"
-  resolved "https://registry.yarnpkg.com/@react-spring/animated/-/animated-9.4.3.tgz#2f8d2b50dfc1975fa490ed3bc03f5ad865180866"
-  integrity sha512-hKKmeXPoGpJ/zrG/RC8stwW8PmMH0BbewHD8aUPLbyzD9fNvZEJ0mjKmOI0CcSwMpb43kuwY2nX3ZJVImPQCoQ==
+"@react-spring/animated@~9.4.4":
+  version "9.4.4"
+  resolved "https://registry.yarnpkg.com/@react-spring/animated/-/animated-9.4.4.tgz#15e21923e55c06ca2bcea432869b91b2f8b07519"
+  integrity sha512-e9xnuBaUTD+NolKikUmrGWjX8AVCPyj1GcEgjgq9E+0sXKv46UY7cm2EmB6mUDTxWIDVKebARY++xT4nGDraBQ==
   dependencies:
-    "@react-spring/shared" "~9.4.3-beta.0"
-    "@react-spring/types" "~9.4.3-beta.0"
+    "@react-spring/shared" "~9.4.4"
+    "@react-spring/types" "~9.4.4"
 
-"@react-spring/core@~9.4.3-beta.0":
-  version "9.4.3"
-  resolved "https://registry.yarnpkg.com/@react-spring/core/-/core-9.4.3.tgz#95c883fa53ff534ff882ba42f863a26a26a6a1c8"
-  integrity sha512-Jr6/GjHwXYxAtttcYDXOtH36krO0XGjYaSsGR6g+vOUO4y0zAPPXoAwpK6vS7Haip5fRwk7rMdNG+OzU7bB4Bg==
+"@react-spring/core@~9.4.4":
+  version "9.4.4"
+  resolved "https://registry.yarnpkg.com/@react-spring/core/-/core-9.4.4.tgz#7730988cec7302ba6e0977cf4c08c30249d95622"
+  integrity sha512-llgb0ljFyjMB0JhWsaFHOi9XFT8n1jBMVs1IFY2ipIBerWIRWrgUmIpakLPHTa4c4jwqTaDSwX90s2a0iN7dxQ==
   dependencies:
-    "@react-spring/animated" "~9.4.3-beta.0"
-    "@react-spring/rafz" "~9.4.3-beta.0"
-    "@react-spring/shared" "~9.4.3-beta.0"
-    "@react-spring/types" "~9.4.3-beta.0"
+    "@react-spring/animated" "~9.4.4"
+    "@react-spring/rafz" "~9.4.4"
+    "@react-spring/shared" "~9.4.4"
+    "@react-spring/types" "~9.4.4"
 
-"@react-spring/parallax@^9.4.3":
-  version "9.4.3"
-  resolved "https://registry.yarnpkg.com/@react-spring/parallax/-/parallax-9.4.3.tgz#a3b90e9c09db7431074a600a35c8ecafce32f99c"
-  integrity sha512-ePbEMY2SzyCVmOPTl+m+K17kEBl6eQQlptD1brEvB+gH5vbx2MszjY1KanaELt2gmiKChHLduBouy4ZSX5n6qg==
+"@react-spring/parallax@^9.4.4":
+  version "9.4.4"
+  resolved "https://registry.yarnpkg.com/@react-spring/parallax/-/parallax-9.4.4.tgz#20fc259f066c3810c1d5099fadc447da7109071b"
+  integrity sha512-Sr9XlrTVOU6pUKEvRfD6gcFGxY5P/9ufNCK7iB6zmMnoocYLYUr/4oBqWauc+DJeHNWtfNJjBINzwvg0x2cN1A==
   dependencies:
-    "@react-spring/shared" "~9.4.3-beta.0"
-    "@react-spring/web" "~9.4.3-beta.0"
+    "@react-spring/shared" "~9.4.4"
+    "@react-spring/web" "~9.4.4"
 
-"@react-spring/rafz@~9.4.3-beta.0":
-  version "9.4.3"
-  resolved "https://registry.yarnpkg.com/@react-spring/rafz/-/rafz-9.4.3.tgz#0d578072c9692ef5ab74a3b1d49c1432dce32ab6"
-  integrity sha512-KnujiZNIHzXsRq1D4tVbCajl8Lx+e6vtvUk7o69KbuneSpEgil9P/x3b+hMDk8U0NHGhJjzhU7723/CNsQansA==
+"@react-spring/rafz@~9.4.4":
+  version "9.4.4"
+  resolved "https://registry.yarnpkg.com/@react-spring/rafz/-/rafz-9.4.4.tgz#736c9ed1099baebeea20c357b9700b01b83ea9de"
+  integrity sha512-5ki/sQ06Mdf8AuFstSt5zbNNicRT4LZogiJttDAww1ozhuvemafNWEHxhzcULgCPCDu2s7HsroaISV7+GQWrhw==
 
-"@react-spring/shared@~9.4.3-beta.0":
-  version "9.4.3"
-  resolved "https://registry.yarnpkg.com/@react-spring/shared/-/shared-9.4.3.tgz#86e03ddd47911ba89be1d0f5a6d11966e305ee04"
-  integrity sha512-mB1UUD/pl1LzaY0XeNWZtvJzxMa8gLQf02nY12HAz4Rukm9dFRj0jeYwQYLdfYLsGFo1ldvHNurun6hZMG7kiQ==
+"@react-spring/shared@~9.4.4":
+  version "9.4.4"
+  resolved "https://registry.yarnpkg.com/@react-spring/shared/-/shared-9.4.4.tgz#e1ae00a77d170d86d77d9a19dc7015bdddc2d26f"
+  integrity sha512-ySVgScDZlhm/+Iy2smY9i/DDrShArY0j6zjTS/Re1lasKnhq8qigoGiAxe8xMPJNlCaj3uczCqHy3TY9bKRtfQ==
   dependencies:
-    "@react-spring/rafz" "~9.4.3-beta.0"
-    "@react-spring/types" "~9.4.3-beta.0"
+    "@react-spring/rafz" "~9.4.4"
+    "@react-spring/types" "~9.4.4"
 
-"@react-spring/types@~9.4.3-beta.0":
-  version "9.4.3"
-  resolved "https://registry.yarnpkg.com/@react-spring/types/-/types-9.4.3.tgz#8926d7a09812374127b1f8a904a755c7579124e6"
-  integrity sha512-dzJrPvUc42K2un9y6D1IsrPQO5tKsbWwUo+wsATnXjG3ePWyuDBIOMJuPe605NhIXUmPH+Vik2wMoZz06hD1uA==
+"@react-spring/types@~9.4.4":
+  version "9.4.4"
+  resolved "https://registry.yarnpkg.com/@react-spring/types/-/types-9.4.4.tgz#97c69881788e624d7cc68d4385fdaa9b5fd20642"
+  integrity sha512-KpxKt/D//q/t/6FBcde/RE36LKp8PpWu7kFEMLwpzMGl9RpcexunmYOQJWwmJWtkQjgE1YRr7DzBMryz6La1cQ==
 
-"@react-spring/web@^9.4.3", "@react-spring/web@~9.4.3-beta.0":
-  version "9.4.3"
-  resolved "https://registry.yarnpkg.com/@react-spring/web/-/web-9.4.3.tgz#b59c1491de344545590598b7fde52b607c4e5d10"
-  integrity sha512-llKve/uJ73JVagBAVvA74S/LfZP4oSB3XP1qmggSUNXzPZZo5ylIMrs55PxpLyxgzzihuhDU5N17ct3ATViOHw==
+"@react-spring/web@^9.4.4", "@react-spring/web@~9.4.4":
+  version "9.4.4"
+  resolved "https://registry.yarnpkg.com/@react-spring/web/-/web-9.4.4.tgz#0d13356e61c1d47e83a36112e19e5db691f3fbe5"
+  integrity sha512-iJmOLdhcuizriUlu/xqBc5y8KaFts+UI+iC+GxyTwBtzxA9czKiSAZW2ESuhG8stafa3jncwjfTQQp84KN36cw==
   dependencies:
-    "@react-spring/animated" "~9.4.3-beta.0"
-    "@react-spring/core" "~9.4.3-beta.0"
-    "@react-spring/shared" "~9.4.3-beta.0"
-    "@react-spring/types" "~9.4.3-beta.0"
+    "@react-spring/animated" "~9.4.4"
+    "@react-spring/core" "~9.4.4"
+    "@react-spring/shared" "~9.4.4"
+    "@react-spring/types" "~9.4.4"
 
 "@sideway/address@^4.1.3":
   version "4.1.3"
@@ -5739,6 +5739,27 @@ gatsby-cli@^4.9.0:
     yoga-layout-prebuilt "^1.10.0"
     yurnalist "^2.1.0"
 
+gatsby-core-utils@^3.12.1:
+  version "3.12.1"
+  resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-3.12.1.tgz#590ec08de7168b086b7d49128732b9ada95b985f"
+  integrity sha512-jBG1MfR6t2MZNIl8LQ3Cwc92F6uFNcEC091IK+qKVy9FNT0+WzcKQ6Olip6u1NSvCatfrg1FqrH0K78a6lmnLQ==
+  dependencies:
+    "@babel/runtime" "^7.15.4"
+    ci-info "2.0.0"
+    configstore "^5.0.1"
+    fastq "^1.13.0"
+    file-type "^16.5.3"
+    fs-extra "^10.0.0"
+    got "^11.8.3"
+    import-from "^4.0.0"
+    lmdb "^2.2.6"
+    lock "^1.1.0"
+    node-object-hash "^2.3.10"
+    proper-lockfile "^4.1.2"
+    resolve-from "^5.0.0"
+    tmp "^0.2.1"
+    xdg-basedir "^4.0.0"
+
 gatsby-core-utils@^3.8.2, gatsby-core-utils@^3.9.0:
   version "3.9.0"
   resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-3.9.0.tgz#7be5969622e44c4475cb14f1ac64b49a4072ab6c"
@@ -5848,10 +5869,10 @@ gatsby-plugin-manifest@^4.0.0:
     semver "^7.3.5"
     sharp "^0.30.1"
 
-gatsby-plugin-mdx@^3.8.1:
-  version "3.9.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-mdx/-/gatsby-plugin-mdx-3.9.0.tgz#6c385bbaf6f609b667f355daeea65f54017e2c40"
-  integrity sha512-W5P9cMTVlWRC8p9dX3MCm7WdmBi05SK4nW4t260kIaD3mJKGNqJjx0cqXwNyNpX5C/Zju+mGqv7vy3od0a3CYQ==
+gatsby-plugin-mdx@^3.11.1:
+  version "3.12.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-mdx/-/gatsby-plugin-mdx-3.12.1.tgz#adcb8e8e953d6cedeb3ab80de98923e77b25a332"
+  integrity sha512-Ojhm50eTARhbbX0K3pedNKNXyF9sdQh//LmJ5Bg7jAuXa1KifkjcNXgERssAi9olrF+JpAOpP1+LTR/AYckerg==
   dependencies:
     "@babel/core" "^7.15.5"
     "@babel/generator" "^7.15.4"
@@ -5869,7 +5890,7 @@ gatsby-plugin-mdx@^3.8.1:
     escape-string-regexp "^1.0.5"
     eval "^0.1.4"
     fs-extra "^10.0.0"
-    gatsby-core-utils "^3.9.0"
+    gatsby-core-utils "^3.12.1"
     gray-matter "^4.0.2"
     json5 "^2.1.3"
     loader-utils "^1.4.0"
@@ -5909,10 +5930,10 @@ gatsby-plugin-page-creator@^4.9.0:
     globby "^11.0.4"
     lodash "^4.17.21"
 
-gatsby-plugin-react-helmet@^5.8.0:
-  version "5.9.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-react-helmet/-/gatsby-plugin-react-helmet-5.9.0.tgz#6ac992628f99451ec72d8ceeae11f456f7409366"
-  integrity sha512-TpPxg0Cl+zH34P9rVzKW+o6ejC6fZpvZMZ4Gs/zZ4uFswSJo6hwj/teUjB1rGAytPE+d6w9cZ2IP1gEM2RR9Ig==
+gatsby-plugin-react-helmet@^5.11.0:
+  version "5.12.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-react-helmet/-/gatsby-plugin-react-helmet-5.12.1.tgz#98205abb73cd7a522f2891b3a42514ae2b41ca57"
+  integrity sha512-lW9uRpkccSj0NC41dunFM4AoDuQockgpWHcvLivzGWMnWYtGWPNci7zy8+NUL1+6CchQqWTr0LZEeGYgpHym+w==
   dependencies:
     "@babel/runtime" "^7.15.4"
 
@@ -5966,16 +5987,16 @@ gatsby-sharp@^0.3.0:
     "@types/sharp" "^0.29.5"
     sharp "^0.30.1"
 
-gatsby-source-filesystem@^4.8.1:
-  version "4.9.0"
-  resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-4.9.0.tgz#8cf6f3f67cc97f8a75e284814f444a0eea3263e6"
-  integrity sha512-woSxEgYeZSVZSpxm+FwB+RjRIyhcix1AR9766W4yk5RwYH2wciF2OfxRC73WW/o/v1ztzeW6RoqIIY+GBXaA1A==
+gatsby-source-filesystem@^4.11.1:
+  version "4.12.1"
+  resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-4.12.1.tgz#86f45cc047b0b9ca06b5e4ef5c48e69fa3ec2206"
+  integrity sha512-lbtKa7oR2Q+8Qa8gZych/JaRBeoIW/dk4rfy13DOrSgUJK9gZFkpLuFQ471Z0JiHitDPswienBW60HjYvymOCw==
   dependencies:
     "@babel/runtime" "^7.15.4"
     chokidar "^3.5.2"
     file-type "^16.5.3"
     fs-extra "^10.0.0"
-    gatsby-core-utils "^3.9.0"
+    gatsby-core-utils "^3.12.1"
     got "^9.6.0"
     md5-file "^5.0.0"
     mime "^2.5.2"
@@ -7580,6 +7601,36 @@ lines-and-columns@^1.1.6:
   resolved "https://registry.yarnpkg.com/lines-and-columns/-/lines-and-columns-1.2.4.tgz#eca284f75d2965079309dc0ad9255abb2ebc1632"
   integrity sha512-7ylylesZQ/PV29jhEDl3Ufjo6ZX7gCqJr5F7PKrqc93v7fzSymt1BpwEU8nAUXs8qzzvqhbjhK5QZg6Mt/HkBg==
 
+lmdb-darwin-arm64@2.3.6:
+  version "2.3.6"
+  resolved "https://registry.yarnpkg.com/lmdb-darwin-arm64/-/lmdb-darwin-arm64-2.3.6.tgz#4f8d01a78c33e0ea2450661d902032fb0ecf2491"
+  integrity sha512-E2MnbFtsrr/EOsrBdZg913OgIAeiQDx8IMIOuqnDv3tghpvgSbdC8vx9phFZipqBPjZB7VV31tpyXyM3mxatqg==
+
+lmdb-darwin-x64@2.3.6:
+  version "2.3.6"
+  resolved "https://registry.yarnpkg.com/lmdb-darwin-x64/-/lmdb-darwin-x64-2.3.6.tgz#ff000229ed72e39f9d5275f01061be3d4573d210"
+  integrity sha512-Sz+3FuA66PXq5iZnGC+0wJcMOpf5dO5m4xgZs1yTM1EvCMjd28KPq59CtDBlLX1Y+5oDOYEVeiLOOLDeZIgTLw==
+
+lmdb-linux-arm64@2.3.6:
+  version "2.3.6"
+  resolved "https://registry.yarnpkg.com/lmdb-linux-arm64/-/lmdb-linux-arm64-2.3.6.tgz#13d0293744e120164d58860874b02c64a289d0d8"
+  integrity sha512-ZGHCulnZGMWYRs6pyLrRmX+DpBI/IUy3X5c+S69Cd6XD0//+xlyYnDXnhGNFaAE8ch1PWtr7Npd1lkpVeY9Z4A==
+
+lmdb-linux-arm@2.3.6:
+  version "2.3.6"
+  resolved "https://registry.yarnpkg.com/lmdb-linux-arm/-/lmdb-linux-arm-2.3.6.tgz#f58744511244fb398f06a23f7e685c0dda6262f0"
+  integrity sha512-U6UojWtQH4CbRwStbe5b9PnHg7nPObWLKWhBudmU93lvA1Ncm2FrRqRKJRFDAr4HZ9uSMdKgaOOCWNbaJEcPQA==
+
+lmdb-linux-x64@2.3.6:
+  version "2.3.6"
+  resolved "https://registry.yarnpkg.com/lmdb-linux-x64/-/lmdb-linux-x64-2.3.6.tgz#87908328ce8643bb4bf952e2a091b09b86e1e95a"
+  integrity sha512-z38fR4ijnxGN6E2bgzx2osAW1KfGjW7cDSjOXmyMFBHCfdB2wdmJU7+Lq2VY6oiZSpszPgHNQVyLkPjVr9Wrvg==
+
+lmdb-win32-x64@2.3.6:
+  version "2.3.6"
+  resolved "https://registry.yarnpkg.com/lmdb-win32-x64/-/lmdb-win32-x64-2.3.6.tgz#e05ead1edb0f5a4a00d841b622564e3b66ca06ff"
+  integrity sha512-Yzsj9xfpo4qBWWfEjJZWm7+riGTjuyUBkYJ/chsIjlcixU+Yws+lhHnJO6w/34beoPnmxZhn+cZvsHCrNJSeQw==
+
 lmdb@2.2.1:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/lmdb/-/lmdb-2.2.1.tgz#b7fd22ed2268ab74aa71108b793678314a7b94bb"
@@ -7601,6 +7652,25 @@ lmdb@^2.0.2, lmdb@^2.1.7:
     node-gyp-build "^4.2.3"
     ordered-binary "^1.2.4"
     weak-lru-cache "^1.2.2"
+
+lmdb@^2.2.6:
+  version "2.3.6"
+  resolved "https://registry.yarnpkg.com/lmdb/-/lmdb-2.3.6.tgz#ab928e1ae3e68dd7980846f5a452b505b40e06a8"
+  integrity sha512-XlzB1rrsEtWWhmLPIKJCU1mDfv59M4j/31LoNIRs9kvwwsAgzuPLbwTBwZGUvReJFBeNp41vfKor6CNwkubaTw==
+  dependencies:
+    msgpackr "^1.5.4"
+    nan "^2.14.2"
+    node-addon-api "^4.3.0"
+    node-gyp-build-optional-packages "^4.3.2"
+    ordered-binary "^1.2.4"
+    weak-lru-cache "^1.2.2"
+  optionalDependencies:
+    lmdb-darwin-arm64 "2.3.6"
+    lmdb-darwin-x64 "2.3.6"
+    lmdb-linux-arm "2.3.6"
+    lmdb-linux-arm64 "2.3.6"
+    lmdb-linux-x64 "2.3.6"
+    lmdb-win32-x64 "2.3.6"
 
 loader-runner@^4.2.0:
   version "4.2.0"
@@ -8363,6 +8433,11 @@ node-fetch@^2.6.1, node-fetch@^2.6.6, node-fetch@^2.6.7:
   integrity sha512-ZjMPFEfVx5j+y2yF35Kzx5sF7kDzxuDj6ziH4FFbOp87zKDZNx8yExJIb05OGF4Nlt9IHFIMBkRl41VdvcNdbQ==
   dependencies:
     whatwg-url "^5.0.0"
+
+node-gyp-build-optional-packages@^4.3.2:
+  version "4.3.2"
+  resolved "https://registry.yarnpkg.com/node-gyp-build-optional-packages/-/node-gyp-build-optional-packages-4.3.2.tgz#82de9bdf9b1ad042457533afb2f67469dc2264bb"
+  integrity sha512-P5Ep3ISdmwcCkZIaBaQamQtWAG0facC89phWZgi5Z3hBU//J6S48OIvyZWSPPf6yQMklLZiqoosWAZUj7N+esA==
 
 node-gyp-build@^4.2.3, node-gyp-build@^4.3.0:
   version "4.3.0"
