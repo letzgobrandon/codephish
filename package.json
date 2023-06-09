@@ -16,8 +16,8 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@lekoarts/gatsby-theme-cara": "^3.0.0",
-    "gatsby": "^4.4.0",
+    "@lekoarts/gatsby-theme-cara": "^5.0.0",
+    "gatsby": "^5.0.0",
     "gatsby-plugin-gatsby-cloud": "^4.0.0",
     "gatsby-plugin-manifest": "^4.0.0",
     "gatsby-plugin-webpack-bundle-analyser-v2": "^1.1.22",
